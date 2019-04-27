@@ -1,4 +1,4 @@
-./modules/s3/variables.tf
+modules/s3/variables.tf
 terraform.tfstate
 terraform.tfstate.backup
 .terraform
